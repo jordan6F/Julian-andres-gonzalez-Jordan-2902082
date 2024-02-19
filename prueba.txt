@@ -1,4 +1,3 @@
 buenos dias
 
-buenas tardes
-intento_2
+prueba 2
